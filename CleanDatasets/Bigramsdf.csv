@@ -1,0 +1,411 @@
+Title,Appearance,count
+Trump_2016/Trump_2016-07-22.txt ,"('want', 'thank')",12
+Trump_2016/Trump_2016-07-25.txt ,"('hillari', 'clinton')",20
+Trump_2016/Trump_2016-07-26.txt ,"('(', 'applaus')",8
+Trump_2016/Trump_2016-07-27-A.txt ,"('question', ')",
+Trump_2016/Trump_2016-07-27-B.txt ,"('donald', 'trump')",13
+Trump_2016/Trump_2016-08-01.txt ,"('take', 'care')",21
+Trump_2016/Trump_2016-08-02.txt ,"('year', 'ago')",12
+Trump_2016/Trump_2016-08-04.txt ,"('(', 'applaus')",20
+Trump_2016/Trump_2016-08-05.txt ,"('donald', 'trump')",15
+Trump_2016/Trump_2016-08-08.txt ,"('hillari', 'clinton')",23
+Trump_2016/Trump_2016-08-10.txt ,"('new', 'york')",10
+Trump_2016/Trump_2016-08-12-A.txt ,"('e', 'mail')",15
+Trump_2016/Trump_2016-08-12-B.txt ,"('go', 'win')",16
+Trump_2016/Trump_2016-08-15.txt ,"('radic', 'islam')",13
+Trump_2016/Trump_2016-08-16.txt ,"('african', 'american')",15
+Trump_2016/Trump_2016-08-17.txt ,"('hanniti', ')",
+Trump_2016/Trump_2016-08-18.txt ,"('hillari', 'clinton')",20
+Trump_2016/Trump_2016-08-19.txt ,"('hillari', 'clinton')",21
+Trump_2016/Trump_2016-08-22.txt ,"('hillari', 'clinton')",25
+Trump_2016/Trump_2016-08-23.txt ,"('audienc', 'boo')",31
+Trump_2016/Trump_2016-08-24-A.txt ,"('hillari', 'clinton')",23
+Trump_2016/Trump_2016-08-24-B.txt ,"('hillari', 'clinton')",16
+Trump_2016/Trump_2016-08-25.txt ,"('hillari', 'clinton')",21
+Trump_2016/Trump_2016-08-30.txt ,"('hillari', 'clinton')",16
+Trump_2016/Trump_2016-08-31.txt ,"('illeg', 'immigr')",25
+Trump_2016/Trump_2016-09-01-A.txt ,"('hillari', 'clinton')",10
+Trump_2016/Trump_2016-09-01-B.txt ,"('american', 'legion')",6
+Trump_2016/Trump_2016-09-06-A.txt ,"('flynn', ')",
+Trump_2016/Trump_2016-09-06-B.txt ,"('hillari', 'clinton')",20
+Trump_2016/Trump_2016-09-07-A.txt ,"('hillari', 'clinton')",12
+Trump_2016/Trump_2016-09-07-B.txt ,"('new', 'york')",23
+Trump_2016/Trump_2016-09-08.txt ,"('school', 'choic')",16
+Trump_2016/Trump_2016-09-09-A.txt ,"('hillari', 'clinton')",14
+Trump_2016/Trump_2016-09-09-B.txt ,"('new', 'york')",5
+Trump_2016/Trump_2016-09-09.txt ,"('hillari', 'clinton')",14
+Trump_2016/Trump_2016-09-12-A.txt ,"('unknown', ')",
+Trump_2016/Trump_2016-09-12-B.txt ,"('hillari', 'clinton')",17
+Trump_2016/Trump_2016-09-13-A.txt ,"('build', 'wall')",9
+Trump_2016/Trump_2016-09-13-B.txt ,"('child', 'care')",16
+Trump_2016/Trump_2016-09-13.txt ,"('build', 'wall')",9
+Trump_2016/Trump_2016-09-16.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-09-17.txt ,"('(', 'applaus')",10
+Trump_2016/Trump_2016-09-29.txt ,"('hillari', 'clinton')",17
+Trump_2016/Trump_2016-09-30.txt ,"('hillari', 'clinton')",33
+Trump_2016/Trump_2016-10-03-A.txt ,"('question', ')",
+Trump_2016/Trump_2016-10-03-B.txt ,"('hillari', 'clinton')",19
+Trump_2016/Trump_2016-10-05.txt ,"('hillari', 'clinton')",16
+Trump_2016/Trump_2016-10-06.txt ,"('carr', ')",
+Trump_2016/Trump_2016-10-10-A.txt ,"('hillari', 'clinton')",37
+Trump_2016/Trump_2016-10-10-B.txt ,"('applaus', 'go')",21
+Trump_2016/Trump_2016-10-11.txt ,"('hillari', 'clinton')",20
+Trump_2016/Trump_2016-10-12.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-10-13.txt ,"('hillari', 'clinton')",10
+Trump_2016/Trump_2016-10-14-A.txt ,"('hillari', 'clinton')",13
+Trump_2016/Trump_2016-10-14-B.txt ,"('applaus', 'go')",13
+Trump_2016/Trump_2016-10-17.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-10-18.txt ,"('applaus', 'go')",10
+Trump_2016/Trump_2016-10-21-A.txt ,"('hanniti', ')",
+Trump_2016/Trump_2016-10-21-B.txt ,"('north', 'carolina')",10
+Trump_2016/Trump_2016-10-21-C.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-10-27.txt ,"('applaus', 'go')",11
+Trump_2016/Trump_2016-10-28.txt ,"('new', 'hampshir')",29
+Trump_2016/Trump_2016-10-31.txt ,"('hillari', 'clinton')",10
+Trump_2016/Trump_2016-11-01-A.txt ,"('make', 'america')",9
+Trump_2016/Trump_2016-11-01-B.txt ,"('health', 'care')",11
+Trump_2016/Trump_2016-11-02-A.txt ,"('e', 'mail')",11
+Trump_2016/Trump_2016-11-02-B.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-02-C.txt ,"('go', 'win')",6
+Trump_2016/Trump_2016-11-03-A.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-03-B.txt ,"('hillari', 'clinton')",19
+Trump_2016/Trump_2016-11-04-A.txt ,"('new', 'hampshir')",19
+Trump_2016/Trump_2016-11-04-B.txt ,"('cheer', 'applaus')",87
+Trump_2016/Trump_2016-11-04-C.txt ,"('hillari', 'clinton')",11
+Trump_2016/Trump_2016-11-05-A.txt ,"('usa', '!')",14
+Trump_2016/Trump_2016-11-05-B.txt ,"('cheer', 'applaus')",108
+Trump_2016/Trump_2016-11-06.txt ,"('hillari', 'clinton')",13
+Trump_2016/Trump_2016-11-07-A.txt ,"('hillari', 'clinton')",11
+Trump_2016/Trump_2016-11-07-B.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-07-C.txt ,"('hillari', 'clinton')",9
+Trump_2016/Trump_2016-11-07-D.txt ,"('new', 'hampshir')",22
+Trump_2016/Trump_2016-11-08.txt ,"('hillari', 'clinton')",8
+Trump_2016/Trump_2016-11-09.txt ,"('thank', 'much')",6
+Trump_2016/Trump_2016-07-22.txt ,"('Mr', 'trump')",10
+Trump_2016/Trump_2016-07-25.txt ,"('donald', 'trump')",18
+Trump_2016/Trump_2016-07-26.txt ,"('applaus', ')')",7
+Trump_2016/Trump_2016-07-27-A.txt ,,
+Trump_2016/Trump_2016-07-27-B.txt ,"('hillari', 'clinton')",11
+Trump_2016/Trump_2016-08-01.txt ,"('hillari', 'clinton')",14
+Trump_2016/Trump_2016-08-02.txt ,"('20', 'peopl')",9
+Trump_2016/Trump_2016-08-04.txt ,"('applaus', ')')",19
+Trump_2016/Trump_2016-08-05.txt ,"('go', 'win')",14
+Trump_2016/Trump_2016-08-08.txt ,"('thank', 'thank')",11
+Trump_2016/Trump_2016-08-10.txt ,"('go', 'make')",10
+Trump_2016/Trump_2016-08-12-A.txt ,"('never', 'trump')",15
+Trump_2016/Trump_2016-08-12-B.txt ,"('hillari', 'clinton')",14
+Trump_2016/Trump_2016-08-15.txt ,"('hillari', 'clinton')",12
+Trump_2016/Trump_2016-08-16.txt ,"('hillari', 'clinton')",14
+Trump_2016/Trump_2016-08-17.txt ,,
+Trump_2016/Trump_2016-08-18.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-08-19.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-08-22.txt ,"('african', 'american')",12
+Trump_2016/Trump_2016-08-23.txt ,"('trump', '!')",22
+Trump_2016/Trump_2016-08-24-A.txt ,"('african', 'american')",12
+Trump_2016/Trump_2016-08-24-B.txt ,"('(', 'applaus')",14
+Trump_2016/Trump_2016-08-25.txt ,"('african', 'american')",12
+Trump_2016/Trump_2016-08-30.txt ,"('african', 'american')",12
+Trump_2016/Trump_2016-08-31.txt ,"('hillari', 'clinton')",19
+Trump_2016/Trump_2016-09-01-A.txt ,"('applaus', 'go')",7
+Trump_2016/Trump_2016-09-01-B.txt ,"('unit', 'state')",5
+Trump_2016/Trump_2016-09-06-A.txt ,,
+Trump_2016/Trump_2016-09-06-B.txt ,"('north', 'carolina')",17
+Trump_2016/Trump_2016-09-07-A.txt ,"('unit', 'state')",12
+Trump_2016/Trump_2016-09-07-B.txt ,"('think', 'go')",9
+Trump_2016/Trump_2016-09-08.txt ,"('hillari', 'clinton')",14
+Trump_2016/Trump_2016-09-09-A.txt ,"('school', 'choic')",10
+Trump_2016/Trump_2016-09-09-B.txt ,"('york', 'state')",5
+Trump_2016/Trump_2016-09-09.txt ,"('school', 'choic')",10
+Trump_2016/Trump_2016-09-12-A.txt ,,
+Trump_2016/Trump_2016-09-12-B.txt ,"('nation', 'guard')",10
+Trump_2016/Trump_2016-09-13-A.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-09-13-B.txt ,"('trump', 'trump')",7
+Trump_2016/Trump_2016-09-13.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-09-16.txt ,,
+Trump_2016/Trump_2016-09-17.txt ,"('illeg', 'immigr')",9
+Trump_2016/Trump_2016-09-29.txt ,"('new', 'hampshir')",8
+Trump_2016/Trump_2016-09-30.txt ,"('applaus', 'go')",12
+Trump_2016/Trump_2016-10-03-A.txt ,,
+Trump_2016/Trump_2016-10-03-B.txt ,"('(', 'applaus')",16
+Trump_2016/Trump_2016-10-05.txt ,"('audienc', 'boo')",14
+Trump_2016/Trump_2016-10-06.txt ,,
+Trump_2016/Trump_2016-10-10-A.txt ,"('go', 'make')",14
+Trump_2016/Trump_2016-10-10-B.txt ,"('hillari', 'clinton')",16
+Trump_2016/Trump_2016-10-11.txt ,"('e', 'mail')",14
+Trump_2016/Trump_2016-10-12.txt ,,
+Trump_2016/Trump_2016-10-13.txt ,"('new', 'york')",10
+Trump_2016/Trump_2016-10-14-A.txt ,"('applaus', 'go')",9
+Trump_2016/Trump_2016-10-14-B.txt ,"('go', 'bring')",12
+Trump_2016/Trump_2016-10-17.txt ,,
+Trump_2016/Trump_2016-10-18.txt ,"('hillari', 'clinton')",9
+Trump_2016/Trump_2016-10-21-A.txt ,,
+Trump_2016/Trump_2016-10-21-B.txt ,"('hillari', 'clinton')",8
+Trump_2016/Trump_2016-10-21-C.txt ,,
+Trump_2016/Trump_2016-10-27.txt ,"('hillari', 'clinton')",9
+Trump_2016/Trump_2016-10-28.txt ,"('hillari', 'clinton')",12
+Trump_2016/Trump_2016-10-31.txt ,"('novemb', '8th')",9
+Trump_2016/Trump_2016-11-01-A.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-01-B.txt ,"('applaus', 'thank')",6
+Trump_2016/Trump_2016-11-02-A.txt ,"('hillari', 'clinton')",10
+Trump_2016/Trump_2016-11-02-B.txt ,,
+Trump_2016/Trump_2016-11-02-C.txt ,"('audienc', 'boo')",6
+Trump_2016/Trump_2016-11-03-A.txt ,,
+Trump_2016/Trump_2016-11-03-B.txt ,"('north', 'carolina')",16
+Trump_2016/Trump_2016-11-04-A.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-04-B.txt ,"('crowd', 'react')",22
+Trump_2016/Trump_2016-11-04-C.txt ,"('get', 'rid')",9
+Trump_2016/Trump_2016-11-05-A.txt ,"('!', 'usa')",14
+Trump_2016/Trump_2016-11-05-B.txt ,"('crowd', 'react')",25
+Trump_2016/Trump_2016-11-06.txt ,"('countri', 'go')",9
+Trump_2016/Trump_2016-11-07-A.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-07-B.txt ,,
+Trump_2016/Trump_2016-11-07-C.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-07-D.txt ,"('hillari', 'clinton')",9
+Trump_2016/Trump_2016-11-08.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-09.txt ,"('thank', 'thank')",4
+Trump_2016/Trump_2016-07-22.txt ,"('(', 'applaus')",8
+Trump_2016/Trump_2016-07-25.txt ,"('(', 'applaus')",17
+Trump_2016/Trump_2016-07-26.txt ,"('unit', 'state')",6
+Trump_2016/Trump_2016-07-27-A.txt ,,
+Trump_2016/Trump_2016-07-27-B.txt ,"('go', 'make')",11
+Trump_2016/Trump_2016-08-01.txt ,"('donald', 'trump')",11
+Trump_2016/Trump_2016-08-02.txt ,"('go', 'happen')",9
+Trump_2016/Trump_2016-08-04.txt ,"('donald', 'trump')",11
+Trump_2016/Trump_2016-08-05.txt ,"('hillari', 'want')",11
+Trump_2016/Trump_2016-08-08.txt ,"('applaus', 'thank')",10
+Trump_2016/Trump_2016-08-10.txt ,"('build', 'wall')",10
+Trump_2016/Trump_2016-08-12-A.txt ,"('hillari', 'clinton')",11
+Trump_2016/Trump_2016-08-12-B.txt ,"('year', 'ago')",11
+Trump_2016/Trump_2016-08-15.txt ,"('unit', 'state')",11
+Trump_2016/Trump_2016-08-16.txt ,"('thank', 'thank')",8
+Trump_2016/Trump_2016-08-17.txt ,,
+Trump_2016/Trump_2016-08-18.txt ,,
+Trump_2016/Trump_2016-08-19.txt ,,
+Trump_2016/Trump_2016-08-22.txt ,"('applaus', 'go')",10
+Trump_2016/Trump_2016-08-23.txt ,"('!', 'trump')",18
+Trump_2016/Trump_2016-08-24-A.txt ,"('.<', 'applaus')",9
+Trump_2016/Trump_2016-08-24-B.txt ,"('applaus', ')')",12
+Trump_2016/Trump_2016-08-25.txt ,"('audienc', 'boo')",9
+Trump_2016/Trump_2016-08-30.txt ,"('inner', 'citi')",11
+Trump_2016/Trump_2016-08-31.txt ,"('unit', 'state')",14
+Trump_2016/Trump_2016-09-01-A.txt ,"('make', 'america')",6
+Trump_2016/Trump_2016-09-01-B.txt ,"('thank', 'much')",4
+Trump_2016/Trump_2016-09-06-A.txt ,,
+Trump_2016/Trump_2016-09-06-B.txt ,"('e', 'mail')",10
+Trump_2016/Trump_2016-09-07-A.txt ,"('applaus', 'trump')",10
+Trump_2016/Trump_2016-09-07-B.txt ,"('rubber', 'hose')",8
+Trump_2016/Trump_2016-09-08.txt ,"('new', 'york')",7
+Trump_2016/Trump_2016-09-09-A.txt ,"('african', 'american')",7
+Trump_2016/Trump_2016-09-09-B.txt ,"('let', 'tell')",4
+Trump_2016/Trump_2016-09-09.txt ,"('african', 'american')",7
+Trump_2016/Trump_2016-09-12-A.txt ,,
+Trump_2016/Trump_2016-09-12-B.txt ,"('member', 'nation')",4
+Trump_2016/Trump_2016-09-13-A.txt ,,
+Trump_2016/Trump_2016-09-13-B.txt ,"('applaus', 'inaud')",6
+Trump_2016/Trump_2016-09-13.txt ,,
+Trump_2016/Trump_2016-09-16.txt ,,
+Trump_2016/Trump_2016-09-17.txt ,"('thank', 'much')",8
+Trump_2016/Trump_2016-09-29.txt ,"('applaus', 'go')",8
+Trump_2016/Trump_2016-09-30.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-10-03-A.txt ,,
+Trump_2016/Trump_2016-10-03-B.txt ,"('audienc', 'boo')",15
+Trump_2016/Trump_2016-10-05.txt ,"('go', 'make')",10
+Trump_2016/Trump_2016-10-06.txt ,,
+Trump_2016/Trump_2016-10-10-A.txt ,"('applaus', 'go')",13
+Trump_2016/Trump_2016-10-10-B.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-10-11.txt ,"('unit', 'state')",11
+Trump_2016/Trump_2016-10-12.txt ,,
+Trump_2016/Trump_2016-10-13.txt ,"('york', 'time')",10
+Trump_2016/Trump_2016-10-14-A.txt ,"('north', 'carolina')",8
+Trump_2016/Trump_2016-10-14-B.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-10-17.txt ,,
+Trump_2016/Trump_2016-10-18.txt ,"('novemb', '8th')",8
+Trump_2016/Trump_2016-10-21-A.txt ,,
+Trump_2016/Trump_2016-10-21-B.txt ,"('lock', 'lock')",8
+Trump_2016/Trump_2016-10-21-C.txt ,,
+Trump_2016/Trump_2016-10-27.txt ,"('unit', 'state')",9
+Trump_2016/Trump_2016-10-28.txt ,"('peopl', 'come')",9
+Trump_2016/Trump_2016-10-31.txt ,"('build', 'wall')",8
+Trump_2016/Trump_2016-11-01-A.txt ,,
+Trump_2016/Trump_2016-11-01-B.txt ,"('thank', 'much')",5
+Trump_2016/Trump_2016-11-02-A.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-02-B.txt ,,
+Trump_2016/Trump_2016-11-02-C.txt ,"('boo', 'trump')",6
+Trump_2016/Trump_2016-11-03-A.txt ,,
+Trump_2016/Trump_2016-11-03-B.txt ,"('applaus', 'go')",12
+Trump_2016/Trump_2016-11-04-A.txt ,,
+Trump_2016/Trump_2016-11-04-B.txt ,"('Mr', 'trump')",19
+Trump_2016/Trump_2016-11-04-C.txt ,"('unit', 'state')",8
+Trump_2016/Trump_2016-11-05-A.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-11-05-B.txt ,"('hillari', 'clinton')",13
+Trump_2016/Trump_2016-11-06.txt ,"('thank', 'much')",6
+Trump_2016/Trump_2016-11-07-A.txt ,,
+Trump_2016/Trump_2016-11-07-B.txt ,,
+Trump_2016/Trump_2016-11-07-C.txt ,,
+Trump_2016/Trump_2016-11-07-D.txt ,"('applaus', 'go')",9
+Trump_2016/Trump_2016-11-08.txt ,,
+Trump_2016/Trump_2016-11-09.txt ,"('applaus', 'thank')",4
+Trump_2016/Trump_2016-07-22.txt ,"('donald', 'trump')",7
+Trump_2016/Trump_2016-07-25.txt ,"('penc', ')",
+Trump_2016/Trump_2016-07-26.txt ,"('donald', 'trump')",4
+Trump_2016/Trump_2016-07-27-A.txt ,,
+Trump_2016/Trump_2016-07-27-B.txt ,"('(', 'applaus')",10
+Trump_2016/Trump_2016-08-01.txt ,"('go', 'take')",11
+Trump_2016/Trump_2016-08-02.txt ,"('hillari', 'clinton')",8
+Trump_2016/Trump_2016-08-04.txt ,"('applaus', 'go')",9
+Trump_2016/Trump_2016-08-05.txt ,"('unit', 'state')",10
+Trump_2016/Trump_2016-08-08.txt ,"('american', 'worker')",9
+Trump_2016/Trump_2016-08-10.txt ,"('lot', 'money')",9
+Trump_2016/Trump_2016-08-12-A.txt ,"('go', 'make')",9
+Trump_2016/Trump_2016-08-12-B.txt ,"('unit', 'state')",10
+Trump_2016/Trump_2016-08-15.txt ,"('presid', 'obama')",11
+Trump_2016/Trump_2016-08-16.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-08-17.txt ,,
+Trump_2016/Trump_2016-08-18.txt ,,
+Trump_2016/Trump_2016-08-19.txt ,,
+Trump_2016/Trump_2016-08-22.txt ,"('usa', '!')",6
+Trump_2016/Trump_2016-08-23.txt ,"('hillari', 'clinton')",16
+Trump_2016/Trump_2016-08-24-A.txt ,"('applaus', 'trump')",9
+Trump_2016/Trump_2016-08-24-B.txt ,"('african', 'american')",10
+Trump_2016/Trump_2016-08-25.txt ,"('inner', 'citi')",8
+Trump_2016/Trump_2016-08-30.txt ,"('crowd', 'chant')",9
+Trump_2016/Trump_2016-08-31.txt ,"('unknown', ')",
+Trump_2016/Trump_2016-09-01-A.txt ,"('build', 'wall')",5
+Trump_2016/Trump_2016-09-01-B.txt ,"('applaus', 'trump')",4
+Trump_2016/Trump_2016-09-06-A.txt ,,
+Trump_2016/Trump_2016-09-06-B.txt ,"('donald', 'trump')",7
+Trump_2016/Trump_2016-09-07-A.txt ,"('middl', 'east')",7
+Trump_2016/Trump_2016-09-07-B.txt ,"('want', 'thank')",7
+Trump_2016/Trump_2016-09-08.txt ,"('right', 'begin')",7
+Trump_2016/Trump_2016-09-09-A.txt ,"('go', 'get')",7
+Trump_2016/Trump_2016-09-09-B.txt ,"('hillari', 'clinton')",4
+Trump_2016/Trump_2016-09-09.txt ,"('go', 'get')",7
+Trump_2016/Trump_2016-09-12-A.txt ,,
+Trump_2016/Trump_2016-09-12-B.txt ,"('men', 'woman')",4
+Trump_2016/Trump_2016-09-13-A.txt ,,
+Trump_2016/Trump_2016-09-13-B.txt ,"('low', 'incom')",6
+Trump_2016/Trump_2016-09-13.txt ,,
+Trump_2016/Trump_2016-09-16.txt ,,
+Trump_2016/Trump_2016-09-17.txt ,"('illeg', 'alien')",7
+Trump_2016/Trump_2016-09-29.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-09-30.txt ,,
+Trump_2016/Trump_2016-10-03-A.txt ,,
+Trump_2016/Trump_2016-10-03-B.txt ,"('applaus', ')')",14
+Trump_2016/Trump_2016-10-05.txt ,"('novemb', '8th')",8
+Trump_2016/Trump_2016-10-06.txt ,,
+Trump_2016/Trump_2016-10-10-A.txt ,"('bring', 'back')",12
+Trump_2016/Trump_2016-10-10-B.txt ,,
+Trump_2016/Trump_2016-10-11.txt ,"('new', 'york')",10
+Trump_2016/Trump_2016-10-12.txt ,,
+Trump_2016/Trump_2016-10-13.txt ,"('american', 'peopl')",8
+Trump_2016/Trump_2016-10-14-A.txt ,"('e', 'mail')",8
+Trump_2016/Trump_2016-10-14-B.txt ,,
+Trump_2016/Trump_2016-10-17.txt ,,
+Trump_2016/Trump_2016-10-18.txt ,"('trump', 'administr')",7
+Trump_2016/Trump_2016-10-21-A.txt ,,
+Trump_2016/Trump_2016-10-21-B.txt ,"('applaus', 'go')",8
+Trump_2016/Trump_2016-10-21-C.txt ,,
+Trump_2016/Trump_2016-10-27.txt ,"('donald', 'trump')",5
+Trump_2016/Trump_2016-10-28.txt ,"('unit', 'state')",7
+Trump_2016/Trump_2016-10-31.txt ,"('hillari', 'one')",8
+Trump_2016/Trump_2016-11-01-A.txt ,,
+Trump_2016/Trump_2016-11-01-B.txt ,"('thank', 'applaus')",5
+Trump_2016/Trump_2016-11-02-A.txt ,,
+Trump_2016/Trump_2016-11-02-B.txt ,,
+Trump_2016/Trump_2016-11-02-C.txt ,"('e', 'mail')",6
+Trump_2016/Trump_2016-11-03-A.txt ,,
+Trump_2016/Trump_2016-11-03-B.txt ,"('unit', 'state')",10
+Trump_2016/Trump_2016-11-04-A.txt ,,
+Trump_2016/Trump_2016-11-04-B.txt ,"('hillari', 'clinton')",12
+Trump_2016/Trump_2016-11-04-C.txt ,"('go', 'happen')",8
+Trump_2016/Trump_2016-11-05-A.txt ,,
+Trump_2016/Trump_2016-11-05-B.txt ,"('go', 'win')",11
+Trump_2016/Trump_2016-11-06.txt ,"('special', 'interest')",6
+Trump_2016/Trump_2016-11-07-A.txt ,,
+Trump_2016/Trump_2016-11-07-B.txt ,,
+Trump_2016/Trump_2016-11-07-C.txt ,,
+Trump_2016/Trump_2016-11-07-D.txt ,"('usa', '!')",9
+Trump_2016/Trump_2016-11-08.txt ,,
+Trump_2016/Trump_2016-11-09.txt ,"('countri', 'applaus')",4
+Trump_2016/Trump_2016-07-22.txt ,"('applaus', ')')",7
+Trump_2016/Trump_2016-07-25.txt ,,
+Trump_2016/Trump_2016-07-26.txt ,"('thank', 'much')",4
+Trump_2016/Trump_2016-07-27-A.txt ,,
+Trump_2016/Trump_2016-07-27-B.txt ,"('applaus', ')')",10
+Trump_2016/Trump_2016-08-01.txt ,"('unit', 'state')",10
+Trump_2016/Trump_2016-08-02.txt ,"('look', 'look')",8
+Trump_2016/Trump_2016-08-04.txt ,"('new', 'hampshir')",9
+Trump_2016/Trump_2016-08-05.txt ,"('go', 'get')",9
+Trump_2016/Trump_2016-08-08.txt ,"('new', 'york')",9
+Trump_2016/Trump_2016-08-10.txt ,"('take', 'look')",9
+Trump_2016/Trump_2016-08-12-A.txt ,"('great', 'job')",9
+Trump_2016/Trump_2016-08-12-B.txt ,"('go', 'happen')",10
+Trump_2016/Trump_2016-08-15.txt ,"('middl', 'east')",11
+Trump_2016/Trump_2016-08-16.txt ,,
+Trump_2016/Trump_2016-08-17.txt ,,
+Trump_2016/Trump_2016-08-18.txt ,,
+Trump_2016/Trump_2016-08-19.txt ,,
+Trump_2016/Trump_2016-08-22.txt ,"('!', 'usa')",6
+Trump_2016/Trump_2016-08-23.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-08-24-A.txt ,"('clinton', 'want')",9
+Trump_2016/Trump_2016-08-24-B.txt ,"('unit', 'state')",9
+Trump_2016/Trump_2016-08-25.txt ,"('special', 'interest')",7
+Trump_2016/Trump_2016-08-30.txt ,"('want', 'thank')",7
+Trump_2016/Trump_2016-08-31.txt ,,
+Trump_2016/Trump_2016-09-01-A.txt ,"('go', 'win')",4
+Trump_2016/Trump_2016-09-01-B.txt ,"('make', 'america')",4
+Trump_2016/Trump_2016-09-06-A.txt ,,
+Trump_2016/Trump_2016-09-06-B.txt ,"('applaus', 'go')",7
+Trump_2016/Trump_2016-09-07-A.txt ,"('missil', 'defens')",6
+Trump_2016/Trump_2016-09-07-B.txt ,"('conserv', 'parti')",6
+Trump_2016/Trump_2016-09-08.txt ,"('e', 'mail')",6
+Trump_2016/Trump_2016-09-09-A.txt ,"('get', 'rid')",7
+Trump_2016/Trump_2016-09-09-B.txt ,"('go', 'happen')",4
+Trump_2016/Trump_2016-09-09.txt ,"('get', 'rid')",7
+Trump_2016/Trump_2016-09-12-A.txt ,,
+Trump_2016/Trump_2016-09-12-B.txt ,"('thank', 'much')",3
+Trump_2016/Trump_2016-09-13-A.txt ,,
+Trump_2016/Trump_2016-09-13-B.txt ,"('thank', 'much')",5
+Trump_2016/Trump_2016-09-13.txt ,,
+Trump_2016/Trump_2016-09-16.txt ,,
+Trump_2016/Trump_2016-09-17.txt ,"('trump', 'thank')",6
+Trump_2016/Trump_2016-09-29.txt ,,
+Trump_2016/Trump_2016-09-30.txt ,,
+Trump_2016/Trump_2016-10-03-A.txt ,,
+Trump_2016/Trump_2016-10-03-B.txt ,"('applaus', 'go')",13
+Trump_2016/Trump_2016-10-05.txt ,"('make', 'america')",8
+Trump_2016/Trump_2016-10-06.txt ,,
+Trump_2016/Trump_2016-10-10-A.txt ,"('e', 'mail')",12
+Trump_2016/Trump_2016-10-10-B.txt ,,
+Trump_2016/Trump_2016-10-11.txt ,"('applaus', 'go')",9
+Trump_2016/Trump_2016-10-12.txt ,,
+Trump_2016/Trump_2016-10-13.txt ,"('clinton', 'machin')",7
+Trump_2016/Trump_2016-10-14-A.txt ,"('novemb', '8th')",7
+Trump_2016/Trump_2016-10-14-B.txt ,,
+Trump_2016/Trump_2016-10-17.txt ,,
+Trump_2016/Trump_2016-10-18.txt ,"('audienc', ')",
+Trump_2016/Trump_2016-10-21-A.txt ,,
+Trump_2016/Trump_2016-10-21-B.txt ,"('go', 'start')",7
+Trump_2016/Trump_2016-10-21-C.txt ,,
+Trump_2016/Trump_2016-10-27.txt ,"('!>', 'trump')",5
+Trump_2016/Trump_2016-10-28.txt ,"('never', 'seen')",7
+Trump_2016/Trump_2016-10-31.txt ,"('unit', 'state')",8
+Trump_2016/Trump_2016-11-01-A.txt ,,
+Trump_2016/Trump_2016-11-01-B.txt ,"('applaus', 'also')",4
+Trump_2016/Trump_2016-11-02-A.txt ,,
+Trump_2016/Trump_2016-11-02-B.txt ,,
+Trump_2016/Trump_2016-11-02-C.txt ,"('four', 'year')",6
+Trump_2016/Trump_2016-11-03-A.txt ,,
+Trump_2016/Trump_2016-11-03-B.txt ,"('novemb', '8th')",9
+Trump_2016/Trump_2016-11-04-A.txt ,,
+Trump_2016/Trump_2016-11-04-B.txt ,"('(', 'cheer')",12
+Trump_2016/Trump_2016-11-04-C.txt ,"('inner', 'citi')",8
+Trump_2016/Trump_2016-11-05-A.txt ,,
+Trump_2016/Trump_2016-11-05-B.txt ,"('bring', 'back')",9
+Trump_2016/Trump_2016-11-06.txt ,"('last', 'chanc')",6
+Trump_2016/Trump_2016-11-07-A.txt ,,
+Trump_2016/Trump_2016-11-07-B.txt ,,
+Trump_2016/Trump_2016-11-07-C.txt ,,
+Trump_2016/Trump_2016-11-07-D.txt ,"('thank', 'thank')",8
+Trump_2016/Trump_2016-11-08.txt ,,
+Trump_2016/Trump_2016-11-09.txt ,"('applaus', 'great')",4
